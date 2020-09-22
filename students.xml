@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Documento *.dtd (validación de fichero XML) -->
+<!DOCTYPE students SYSTEM "students.dtd">
+
+<!-- Elemento "students" -->
+<students>
+    <student>
+        <name>Luis</name>
+        <surname>Torres</surname>
+        <class>1ºDAM-T</class>
+    </student>
+    <student>
+        <name>Juan</name>
+        <surname>Ramírez</surname>
+        <class>2ºDAM-T</class>
+    </student>
+</students>

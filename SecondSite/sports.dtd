@@ -1,0 +1,7 @@
+<!ELEMENT sports (sport*)>
+<!ELEMENT sport (name, players, time)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT players (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+
+<!ATTLIST sports event CDATA #IMPLIED>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sports SYSTEM "sports.dtd">
+
+<sports event="Barcelona 92">
+    <sport>
+        <name>Baloncesto</name>
+        <players>5</players>
+        <time>40</time>
+    </sport>
+    <sport>
+        <name>Fútbol</name>
+        <players>11</players>
+        <time>90</time>
+    </sport>
+    <sport>
+        <name>Balonmano</name>
+        <players>6</players>
+        <time>40</time>
+    </sport>
+</sports>

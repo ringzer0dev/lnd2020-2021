@@ -1,0 +1,5 @@
+<!ELEMENT students (student*)>
+<!ELEMENT student (name, surname, class)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT class (#PCDATA)>
