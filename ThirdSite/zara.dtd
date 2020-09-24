@@ -1,0 +1,8 @@
+<!ELEMENT shops (shop*)>
+<!ELEMENT shop (address, employees)>
+<!ELEMENT employees (employee*)>
+<!ELEMENT employee (name, birthdate)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT birthdate (#PCDATA)>
+<!ATTLIST shop openingdate CDATA #REQUIRED>

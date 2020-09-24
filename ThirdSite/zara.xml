@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE shops SYSTEM "zara.dtd">
+
+<shops>
+    <shop openingdate="2018-02-20">
+        <address>Av. José Sánchez Peñate s/n</address>
+        <employees>
+            <employee>
+                <name>José Ramírez</name>
+                <birthdate>1975-09-23</birthdate>
+            </employee>
+            <employee>
+                <name>Laura López</name>
+                <birthdate>1985-09-23</birthdate>
+            </employee>
+        </employees>
+    </shop>
+
+    <shop openingdate="2015-12-20">
+        <address>Calle Perez Galdós</address>
+        <employees>
+            <employee>
+                <name>René Escobar</name>
+                <birthdate>1962-09-23</birthdate>
+            </employee>
+            <employee>
+                <name>Luisa Domínguez</name>
+                <birthdate>1956-09-23</birthdate>
+            </employee>
+        </employees>
+    </shop>
+</shops>

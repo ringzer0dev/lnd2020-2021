@@ -3,5 +3,4 @@
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT players (#PCDATA)>
 <!ELEMENT time (#PCDATA)>
-
 <!ATTLIST sports event CDATA #IMPLIED>
